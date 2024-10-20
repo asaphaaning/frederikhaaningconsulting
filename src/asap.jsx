@@ -8,7 +8,7 @@ const Asap = () => {
   return <section className="relative bg-black py-20 2xl:py-40 overflow-hidden">
   <div className="relative max-w-4xl px-4 lg:px-0 mx-auto py-10">
     <div className="max-w-xl mb-14 lg:mb-28">
-      <span className="text-lg text-blue-400 font-semibold">A$AP HAANING CONSULTING</span>
+      <span className="text-lg text-blue-400 font-semibold">FREDERIK HAANING CONSULTING</span>
       <h2 className="mt-8 text-5xl text-white font-bold font-heading">Software Engineer for hire.</h2>
     </div>
     <div className="relative">
